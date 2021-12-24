@@ -1,1 +1,5 @@
-# Junaid_Rainy_Shamreen_10_1821577642_CSE445_3_Spring-21
+This is my CSE445(Machine Learning) Course Project
+
+  * Md. Istiaq Hossin Junaid
+  * Samreen Sohail
+  * Nishat Salsabil Rainy
